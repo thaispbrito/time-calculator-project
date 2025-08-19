@@ -11,5 +11,5 @@ It calculates a new time by adding a duration to a given start time in 12-hour f
 - Returns output with exact formatting including commas, parentheses, and spacing
 
 ### Project Structure
-- time_calculator.py: Main Python module containing the add_time function and logic
+- time_calculator_project.py: Main Python module containing the add_time function and logic
 - README.md: Project documentation with usage and details
